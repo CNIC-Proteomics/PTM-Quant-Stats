@@ -1,4 +1,4 @@
-Instructions to execute GIA workflows under Windows 7.-
+#Instructions to execute GIA workflows under Windows 7.-
 
 (1) Unzip all the files from the .zip package
 (2) Run the prompt cmd and change default directory to the folder containing the .exe files (\SanXoT_package) 
